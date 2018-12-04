@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl" ?>
+<biblioteca>
+	<libro>
+		<autore>Manzoni Alessandro</autore>
+		<titolo>I promessi sposi</titolo>
+		<annoedizione>1840</annoedizione>
+	</libro>
+	<libro>
+		<autore>William Shakespeare</autore>
+		<titolo>Hamlet</titolo>
+		<annoedizione>1654</annoedizione>
+	</libro>
+</biblioteca>

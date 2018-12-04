@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="album.xsl" ?>
+<album>
+	<foto>
+		<soggetto>Vacanze mare</soggetto>
+		<datafoto>20 luglio</datafoto>
+		<nomefile>ab12345.jpg</nomefile>
+		<categoria>vacanze</categoria>
+	</foto>
+	<foto>
+		<soggetto>Compleanno Marina</soggetto>
+		<datafoto>14 aprile</datafoto>
+		<nomefile>xy78675.jpg</nomefile>
+		<categoria>feste</categoria>
+	</foto>
+</album>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="siti.xsl" ?>
+<lista>
+	<sito IDsito="0000">
+		<name>Google</name>
+		<URL>http://www.google.com</URL>
+		<descrizione>Google</descrizione>
+		<categoria>Browser</categoria>
+	</sito>
+	<sito IDsito="0001">
+		<name>La repubblica</name>
+		<URL>http://www.repubblica.it</URL>
+		<descrizione>La repubblica</descrizione>
+		<categoria>Giornale online</categoria>
+	</sito>
+	<sito IDsito="0002">
+		<name>Wikipedia</name>
+		<URL>http://www.wikipedia.org</URL>
+		<descrizione>Wikipedia</descrizione>
+		<categoria>Enciclopedia</categoria>
+	</sito>
+	<sito IDsito="0003">
+		<name>Corriere della Sera</name>
+		<URL>http://www.corriere.it</URL>
+		<descrizione>Corriere della Sera</descrizione>
+		<categoria>Giornale Online</categoria>
+	</sito>
+	<sito IDsito="0004">
+		<name>Louvre</name>
+		<URL>http://www.louvre.fr</URL>
+		<descrizione>Louvre</descrizione>
+		<categoria>Museo</categoria>
+	</sito>
+</lista>
