@@ -4,8 +4,8 @@
 		<html>
 			<body style="background: whitesmoke">
 				<xsl:for-each select="album/foto">
-					<xsl:if test="nomefile=xy78675.jpg">
-						<p><xsl:value-if select="soggetto" /></p>
+					<xsl:if test="nomefile='xy78675.jpg'" >
+						<p><xsl:value-of select="soggetto" /></p>
 					</xsl:if>
 				</xsl:for-each>
 			</body>
